@@ -8,7 +8,7 @@
   3. Put the pk_... value below.
 */
 
-const CLIENT_ID = "REPLACE_WITH_YOUR_POLLINATIONS_APP_KEY";
+const CLIENT_ID = "pk_pohR1gGUXNVKbltw";
 const AUTH_BASE = "https://enter.pollinations.ai/authorize";
 const TOKEN_URL = "https://enter.pollinations.ai/api/oauth/token";
 const IMAGE_BASE = "https://gen.pollinations.ai/image/";
